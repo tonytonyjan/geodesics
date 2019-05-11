@@ -1,5 +1,7 @@
 # geodesics
 
+[![Build Status](https://travis-ci.org/tonytonyjan/geodesics.svg?branch=master)](https://travis-ci.org/tonytonyjan/geodesics)
+
 **geodesics** calculates the geodesic distance between 2 points with latitude and longitude on ellipsoid Earth using Lambert's formula.
 
 ## Features
