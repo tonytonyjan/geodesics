@@ -1,0 +1,10 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+    - 'pkg/**/*'
+Metrics:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Style/AsciiComments:
+  Enabled: false
